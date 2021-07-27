@@ -1,0 +1,40 @@
+.responsive{   
+    border: #eee 1px solid;
+     overflow: hidden;
+      width:220px;
+     height:220px;
+    }
+
+     .text-nowrap{
+        margin-bottom:0px;
+         overflow: hidden; 
+         text-overflow: ellipsis;
+     }
+     .product_image{
+        text-decoration:none;
+     }
+
+
+     .small-text{
+         color: #999; 
+         text-decoration:none;
+        }
+
+.social_button {
+    display: inline-block;
+    background-color: #ddd;
+    text-align: center;
+    padding-top: 12px;
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+    color: #999;
+
+}
+.hyp{
+    text-decoration:none;
+}
+
+.bottom{
+    text-decoration:none;
+}
